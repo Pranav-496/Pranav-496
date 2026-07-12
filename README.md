@@ -16,25 +16,25 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/Pranav-496">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:pranavlandge79@email.com">
 <img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Pranav-496">
 <img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=Pranav-496&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/followers/Pranav-496?style=for-the-badge&color=6D28D9)
 
-![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=5B21B6)
+![](https://img.shields.io/github/stars/Pranav-496?affiliations=OWNER&style=for-the-badge&color=5B21B6)
 
 </div>
 
