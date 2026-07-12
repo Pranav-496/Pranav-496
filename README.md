@@ -254,7 +254,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img src="./github-user-contribution.svg"/>
+<img src="./github-contribution-red.svg"/>
 
 </p>
 
