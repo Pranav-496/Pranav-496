@@ -216,7 +216,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496E&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&theme=tokyonight&hide_border=true"/>
 
