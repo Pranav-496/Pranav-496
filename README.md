@@ -273,7 +273,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-Profile-550000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
----
+
 
 <div align="center">
 
@@ -284,4 +284,4 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:8B0000,50:DC143C,100:FF0000"/>
 
 </div>
-```
+
