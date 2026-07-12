@@ -30,12 +30,6 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Pranav-496&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/Pranav-496?style=for-the-badge&color=6D28D9)
-
-![](https://img.shields.io/github/stars/Pranav-496?affiliations=OWNER&style=for-the-badge&color=5B21B6)
-
 </div>
 
 ---
