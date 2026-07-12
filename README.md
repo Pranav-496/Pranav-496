@@ -254,8 +254,8 @@ open_to:
 ````
 
 ---
+## Connect
 <div align="center">
-# Connect
 
 <a href="https://pranavlandge.in">
 <img src="https://img.shields.io/badge/Portfolio-Visit-CC0000?style=for-the-badge&logo=vercel&logoColor=white"/>
