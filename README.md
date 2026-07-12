@@ -7,7 +7,7 @@
 <br>
 
 ![](https://img.shields.io/badge/B.Tech-Computer%20Engineering-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/K.K.%20Wagh%20IOER-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/KKWIEER-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Nashik,%20India-5B21B6?style=for-the-badge)
 
 <br>
