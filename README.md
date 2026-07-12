@@ -210,65 +210,21 @@ Engaged in community activities, technical learning, and peer collaboration.
 | ML Internship | FlyRank |
 | Marketing Internship | WeMakeScholars |
 
----
 
-# Certifications
-
-### AWS
-
-![](https://img.shields.io/badge/AWS-In%20Progress-7C3AED?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Learning-6D28D9?style=for-the-badge&logo=oracle)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-5B21B6?style=for-the-badge&logo=cisco)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Courses-4F46E5?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-Profile-5B21B6?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-Profile-4F46E5?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
-
----
 
 # GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496E&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-496&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -278,7 +234,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=12&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pranav-496&theme=tokyonight&margin-w=12&no-frame=true"/>
 
 </p>
 
@@ -288,7 +244,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-496&theme=tokyo-night"/>
 
 </p>
 
@@ -298,7 +254,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Pranav-496/Pranav-496/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
