@@ -254,7 +254,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Pranav-496/Pranav-496/output/github-contribution-grid-snake-dark.svg"/>
+<img src="./contribution-snake.svg"/>
 
 </p>
 
