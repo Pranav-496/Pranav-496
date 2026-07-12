@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Pranav%20Landge&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8B0000,50:DC143C,100:FF0000&text=Pranav%20Landge&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Engineer;Open+Source+Contributor;Building+Scalable+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Engineer;Open+Source+Contributor;Building+Scalable+Products"/>
 
 <br>
 
-![](https://img.shields.io/badge/B.Tech-Computer%20Engineering-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/KKWIEER-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Nashik,%20India-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/B.Tech-Computer%20Engineering-CC0000?style=for-the-badge)
+![](https://img.shields.io/badge/KKWIEER-990000?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Nashik,%20India-770000?style=for-the-badge)
 
 <br>
 
 <a href="https://pranavlandge.in">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-CC0000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="www.linkedin.com/in/pranav-landge-064072329">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-990000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pranavlandge79@email.com">
-<img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-770000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Pranav-496">
-<img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-550000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br>
@@ -216,15 +216,15 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496&show_icons=true&bg_color=0D0000&title_color=FF0000&text_color=CCCCCC&icon_color=FF0000&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&background=0D0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&currStreakLabel=CCCCCC&sideNums=CCCCCC&sideLabels=CCCCCC&dates=CCCCCC&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-496&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-496&layout=compact&bg_color=0D0000&title_color=FF0000&text_color=CCCCCC&icon_color=FF0000&hide_border=true"/>
 
 </p>
 
@@ -234,7 +234,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav-496&theme=tokyonight&margin-w=12&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pranav-496&row=1&column=7&title=FF0000&text=CCCCCC&icon=FF0000&bg_color=0D0000&margin-w=12&no-frame=true"/>
 
 </p>
 
@@ -244,7 +244,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-496&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-496&bg_color=0D0000&color=CCCCCC&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
 
 </p>
 
@@ -303,7 +303,7 @@ open_to:
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:8B0000,50:DC143C,100:FF0000"/>
 
 </div>
 ```
