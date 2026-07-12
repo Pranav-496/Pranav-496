@@ -1,8 +1,3 @@
-# Premium GitHub Profile README
-
-> **Note:** Replace the placeholders (`YOUR_USERNAME`, portfolio URL, LinkedIn URL, email, etc.) with your own details.
-
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Pranav&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&animation=fadeIn"/>
