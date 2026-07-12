@@ -257,11 +257,21 @@ open_to:
 
 # Connect
 
-<p align="center">
+<a href="https://pranavlandge.in">
+<img src="https://img.shields.io/badge/Portfolio-Visit-CC0000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<a href="mailto:your@email.com">Email</a> • <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> • <a href="https://github.com/YOUR_USERNAME">GitHub</a> • <a href="https://yourportfolio.com">Portfolio</a>
+<a href="www.linkedin.com/in/pranav-landge-064072329">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-990000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
+<a href="mailto:pranavlandge79@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-770000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pranav-496">
+<img src="https://img.shields.io/badge/GitHub-Profile-550000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
