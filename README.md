@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Pranav&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Pranav Landge&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Engineer;Open+Source+Contributor;Building+Scalable+Products"/>
 
 <br>
 
 ![](https://img.shields.io/badge/B.Tech-Computer%20Engineering-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/SPPU-K.K.%20Wagh%20IOER-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/K.K.%20Wagh%20IOER-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Nashik,%20India-5B21B6?style=for-the-badge)
 
 <br>
 
-<a href="https://yourportfolio.com">
+<a href="https://pranavlandge.in">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/Pranav-496">
+<a href="www.linkedin.com/in/pranav-landge-064072329">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -42,7 +42,7 @@
 
 # About
 
-I am **Pranav**, a Computer Engineering undergraduate passionate about designing scalable software systems, intelligent AI applications, and modern full-stack products.
+I am **Pranav Landge**, a Computer Engineering undergraduate passionate about designing scalable software systems, intelligent AI applications, and modern full-stack products.
 
 My interests span machine learning, backend architecture, distributed systems, cloud-native development, and developer tooling. I enjoy solving engineering problems that combine research with real-world impact.
 
