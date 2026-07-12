@@ -254,7 +254,7 @@ open_to:
 ````
 
 ---
-
+<div align="center">
 # Connect
 
 <a href="https://pranavlandge.in">
@@ -272,7 +272,7 @@ open_to:
 <a href="https://github.com/Pranav-496">
 <img src="https://img.shields.io/badge/GitHub-Profile-550000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+</div>
 ---
 
 <div align="center">
