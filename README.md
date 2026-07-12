@@ -1,21 +1,364 @@
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Development, and AI-based projects  <br>👯 I’m looking to collaborate on Open Source, Web Development, and Innovative Student Projects  <br>🤝 I’m looking for help with scaling projects, backend architecture, and advanced system design  <br>🌱 I’m currently learning Full Stack Development, Advanced DSA, and exploring AI<br>💬 Ask me about C++, Python, Pygame, Web Development, and beginner-friendly coding guidance  <br>⚡ Fun fact: I built and monetized a YouTube channel that crossed 120K+ subscribers before college
+# Premium GitHub Profile README
 
+> **Note:** Replace the placeholders (`YOUR_USERNAME`, portfolio URL, LinkedIn URL, email, etc.) with your own details.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bit.nerd01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-landge-064072329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavlandge79@gmail.com) [Portfolio](https://pranavlandge.vercel.app/)
+````markdown
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pranav-496&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Pranav-496&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranav-496&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Pranav&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&animation=fadeIn"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pranav-496&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Engineer;Open+Source+Contributor;Building+Scalable+Products"/>
+
+<br>
+
+![](https://img.shields.io/badge/B.Tech-Computer%20Engineering-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/SPPU-K.K.%20Wagh%20IOER-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Nashik,%20India-5B21B6?style=for-the-badge)
+
+<br>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6D28D9)
+
+![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=5B21B6)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pranav-496&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About
+
+I am **Pranav**, a Computer Engineering undergraduate passionate about designing scalable software systems, intelligent AI applications, and modern full-stack products.
+
+My interests span machine learning, backend architecture, distributed systems, cloud-native development, and developer tooling. I enjoy solving engineering problems that combine research with real-world impact.
+
+### Open To
+
+- Software Engineering Internships
+- AI / ML Engineering
+- Full Stack Development
+- Open Source Collaboration
+- Research & Product Engineering
+
+---
+
+# Technology Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+</p>
+
+## Backend & Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
+
+</p>
+
+## Cloud • DevOps • Tooling
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel,firebase"/>
+
+</p>
+
+---
+
+# AI / Machine Learning Expertise
+
+| Domain | Proficiency | Details |
+|---------|------------|---------|
+| Machine Learning | Advanced | Model development, feature engineering, evaluation |
+| Deep Learning | Intermediate | CNNs, Neural Networks |
+| NLP | Intermediate | Text processing and LLM applications |
+| Data Science | Advanced | Data analysis, visualization, preprocessing |
+| Computer Vision | Intermediate | Image classification and detection |
+| MLOps | Intermediate | Model deployment and experimentation |
+
+---
+
+# Featured Projects
+
+<details>
+
+<summary><b>Valoris — AI Product Platform</b></summary>
+
+A modern AI platform focused on intelligent workflows, premium UI/UX, and scalable architecture.
+
+| Category | Details |
+|----------|----------|
+| Stack | React, TypeScript, Node.js, AI APIs |
+| Scale | Multi-module architecture |
+| Performance | Optimized frontend rendering |
+| Security | Authentication & protected APIs |
+| Impact | AI-powered productivity |
+| Repository | https://github.com/YOUR_USERNAME/valoris |
+
+</details>
+
+<details>
+
+<summary><b>FinvestAI</b></summary>
+
+AI-powered investment guidance platform focused on improving financial literacy.
+
+| Category | Details |
+|----------|----------|
+| Stack | React, Node.js, MongoDB |
+| Scale | Modular architecture |
+| Performance | Fast API-driven dashboard |
+| Security | Secure authentication |
+| Impact | Financial education & recommendations |
+| Repository | https://github.com/YOUR_USERNAME/finvestai |
+
+</details>
+
+<details>
+
+<summary><b>Machine Learning Projects</b></summary>
+
+A collection of practical ML implementations demonstrating data preprocessing, training pipelines, and evaluation.
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, Scikit-learn, TensorFlow |
+| Scale | Multiple datasets |
+| Performance | Optimized training workflows |
+| Security | Reproducible experiments |
+| Impact | Learning & portfolio development |
+| Repository | https://github.com/YOUR_USERNAME |
+
+</details>
+
+---
+
+# Experience
+
+## Machine Learning Intern — FlyRank
+
+**July 2026 — Present**
+
+- Built machine learning workflows.
+- Worked with datasets and model evaluation.
+- Collaborated on AI feature development.
+
+**Skills**
+
+`Python` `Machine Learning` `Git`
+
+---
+
+## Marketing Intern — WeMakeScholars
+
+**July 2026 — Present**
+
+- Assisted with growth initiatives.
+- Worked on outreach and campaign execution.
+- Supported product visibility.
+
+**Skills**
+
+`Marketing` `Analytics` `Communication`
+
+---
+
+## Open Source Contributor
+
+**GSSoC 2026**
+
+Contributed to open-source repositories while improving collaboration, code quality, and engineering practices.
+
+---
+
+## Google Student Ambassador Program
+
+**GSAP 2026**
+
+Engaged in community activities, technical learning, and peer collaboration.
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| Google Cloud Arcade Legend 2025 | Successfully achieved Legend status |
+| GSSoC 2026 | Open Source Contributor |
+| GSAP 2026 | Community Contributor |
+| ML Internship | FlyRank |
+| Marketing Internship | WeMakeScholars |
+
+---
+
+# Certifications
+
+### AWS
+
+![](https://img.shields.io/badge/AWS-In%20Progress-7C3AED?style=for-the-badge&logo=amazonaws)
+
+### Oracle
+
+![](https://img.shields.io/badge/Oracle-Learning-6D28D9?style=for-the-badge&logo=oracle)
+
+### Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-5B21B6?style=for-the-badge&logo=cisco)
+
+### NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Courses-4F46E5?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-Profile-5B21B6?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://codechef.com/users/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-Profile-4F46E5?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=12&no-frame=true"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Advanced Machine Learning
+  - System Design
+  - Cloud Engineering
+
+building:
+  - Valoris
+  - AI Applications
+  - Open Source Projects
+
+exploring:
+  - LLM Engineering
+  - MLOps
+  - Distributed Systems
+
+open_to:
+  - Software Engineering
+  - AI/ML
+  - Product Development
+  - Research Opportunities
+````
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:your@email.com">Email</a> • <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> • <a href="https://github.com/YOUR_USERNAME">GitHub</a> • <a href="https://yourportfolio.com">Portfolio</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Engineering intelligent systems that solve meaningful problems."*
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
+</div>
+```
