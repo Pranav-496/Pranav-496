@@ -203,25 +203,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 # GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496&show_icons=true&bg_color=0D0000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-496&layout=compact&bg_color=0D0000&title_color=ff0000&text_color=ffffff&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav-496&theme=dracula&margin-w=12&no-frame=true"/>
-
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&background=0D0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=cccccc&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true"/>
 </p>
 
 ---
