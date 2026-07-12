@@ -170,19 +170,7 @@ A collection of practical ML implementations demonstrating data preprocessing, t
 
 ---
 
-## Marketing Intern — WeMakeScholars
 
-**July 2026 — Present**
-
-- Assisted with growth initiatives.
-- Worked on outreach and campaign execution.
-- Supported product visibility.
-
-**Skills**
-
-`Marketing` `Analytics` `Communication`
-
----
 
 ## Open Source Contributor
 
@@ -217,8 +205,6 @@ Engaged in community activities, technical learning, and peer collaboration.
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496&show_icons=true&bg_color=0D0000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&background=0D0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=cccccc&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true"/>
 
 </p>
 
