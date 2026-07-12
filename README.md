@@ -216,15 +216,15 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496&show_icons=true&bg_color=0D0000&title_color=FF0000&text_color=CCCCCC&icon_color=FF0000&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&background=0D0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&currStreakLabel=CCCCCC&sideNums=CCCCCC&sideLabels=CCCCCC&dates=CCCCCC&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&theme=tokyonight&background=0D1117&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=cccccc&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-496&layout=compact&bg_color=0D0000&title_color=FF0000&text_color=CCCCCC&icon_color=FF0000&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-496&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=ff0000&text_color=ffffff&hide_border=true"/>
 
 </p>
 
@@ -234,7 +234,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav-496&row=1&column=7&title=FF0000&text=CCCCCC&icon=FF0000&bg_color=0D0000&margin-w=12&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pranav-496&theme=radical&margin-w=12&no-frame=true"/>
 
 </p>
 
@@ -244,7 +244,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-496&bg_color=0D0000&color=CCCCCC&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-496&theme=tokyo-night&bg_color=0D1117&color=ffffff&line=ff0000&point=ffffff&hide_border=true"/>
 
 </p>
 
