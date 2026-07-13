@@ -203,9 +203,6 @@ Engaged in community activities, technical learning, and peer collaboration.
 # GitHub Analytics
 
 <p align="center">
-<<<<<<< HEAD
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496&show_icons=true&bg_color=0D0000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&v=1"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&background=0D0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=cccccc&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true&v=1"/>
 
@@ -219,18 +216,6 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav-496&theme=dracula&margin-w=12&no-frame=true&v=1"/>
-
-=======
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&background=0D0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=cccccc&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true"/>
->>>>>>> 492a6aa0b3fc3bb683f9b23f4efc6f232b0d8a48
-</p>
-
----
 
 # Contribution Activity
 
