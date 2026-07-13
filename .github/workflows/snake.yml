@@ -1,0 +1,94 @@
+name: Generate and Theme Contribution Snake
+
+on:
+  schedule:
+    # Runs at 00:00 every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-and-theme:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository to access the theme_snake.py script
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Generate the raw snake using Platane/snk
+      - name: Generate Raw Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            raw-snake.svg
+
+      # Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # Modify the python script to read raw-snake.svg and write github-contribution-red.svg
+      - name: Update theme_snake.py file paths
+        run: |
+          sed -i 's|d:\\\\Pranav-496\\\\github-user-contribution.svg|raw-snake.svg|g' theme_snake.py
+          # Wait, the script currently overwrites the same file. We need it to output to the right place.
+          # We'll just run a fresh python script here to be safe and avoid hardcoded paths.
+
+      - name: Theme the Snake
+        run: |
+          cat << 'EOF' > action_theme_snake.py
+          import re
+          import sys
+
+          with open("raw-snake.svg", "r", encoding="utf-8") as f:
+              svg = f.read()
+
+          css_vars = "--cb:rgba(255,0,0,0.15);--cs:url(#snake-grad);--ce:#120505;--c0:#120505;--c1:#4D0000;--c2:#8B0000;--c3:#CC0000;--c4:#FF0000"
+          svg = re.sub(r':root\{[^\}]+\}', f":root{{{css_vars}}}", svg)
+
+          defs = """<defs>
+              <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#0D0000"/>
+                  <stop offset="100%" stop-color="#050000"/>
+              </linearGradient>
+              <linearGradient id="snake-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#FF1A1A"/>
+                  <stop offset="100%" stop-color="#8B0000"/>
+              </linearGradient>
+              <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+                  <feGaussianBlur stdDeviation="3" result="blur1" />
+                  <feGaussianBlur stdDeviation="8" result="blur2" />
+                  <feMerge>
+                      <feMergeNode in="blur2"/>
+                      <feMergeNode in="blur1"/>
+                      <feMergeNode in="SourceGraphic"/>
+                  </feMerge>
+              </filter>
+          </defs>"""
+
+          svg = re.sub(r'<defs>.*?</defs>', '', svg, flags=re.DOTALL)
+          svg = re.sub(r'<rect width="100%" height="100%" fill="url\(#bg-grad\)".*?/>', '', svg)
+          svg = re.sub(r'(<svg[^>]*>)', r'\1' + defs + '<rect width="100%" height="100%" fill="url(#bg-grad)" x="-5%" y="-5%" rx="16"/>', svg, count=1)
+
+          if '.s{filter:url(#glow);' not in svg:
+              svg = svg.replace('.s{', '.s{filter:url(#glow);')
+          if '.c{rx:4;ry:4;' not in svg:
+              svg = svg.replace('.c{', '.c{rx:4;ry:4;')
+
+          with open("github-contribution-red.svg", "w", encoding="utf-8") as f:
+              f.write(svg)
+          EOF
+          python action_theme_snake.py
+
+      # Commit and push the updated snake
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-red.svg
+          git commit -m "chore: Update themed contribution snake" || echo "No changes to commit"
+          git push
