@@ -170,19 +170,7 @@ A collection of practical ML implementations demonstrating data preprocessing, t
 
 ---
 
-## Marketing Intern — WeMakeScholars
 
-**July 2026 — Present**
-
-- Assisted with growth initiatives.
-- Worked on outreach and campaign execution.
-- Supported product visibility.
-
-**Skills**
-
-`Marketing` `Analytics` `Communication`
-
----
 
 ## Open Source Contributor
 
@@ -215,6 +203,7 @@ Engaged in community activities, technical learning, and peer collaboration.
 # GitHub Analytics
 
 <p align="center">
+<<<<<<< HEAD
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-496&show_icons=true&bg_color=0D0000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&v=1"/>
 
@@ -236,6 +225,9 @@ Engaged in community activities, technical learning, and peer collaboration.
 
 <img src="https://github-profile-trophy.vercel.app/?username=Pranav-496&theme=dracula&margin-w=12&no-frame=true&v=1"/>
 
+=======
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-496&background=0D0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=cccccc&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true"/>
+>>>>>>> 492a6aa0b3fc3bb683f9b23f4efc6f232b0d8a48
 </p>
 
 ---
@@ -286,16 +278,26 @@ open_to:
 ````
 
 ---
+## Connect
+<div align="center">
 
-# Connect
+<a href="https://pranavlandge.in">
+<img src="https://img.shields.io/badge/Portfolio-Visit-CC0000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<p align="center">
+<a href="www.linkedin.com/in/pranav-landge-064072329">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-990000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="mailto:your@email.com">Email</a> • <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> • <a href="https://github.com/YOUR_USERNAME">GitHub</a> • <a href="https://yourportfolio.com">Portfolio</a>
+<a href="mailto:pranavlandge79@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-770000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</p>
+<a href="https://github.com/Pranav-496">
+<img src="https://img.shields.io/badge/GitHub-Profile-550000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
 
----
 
 <div align="center">
 
@@ -306,4 +308,4 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:8B0000,50:DC143C,100:FF0000"/>
 
 </div>
-```
+
