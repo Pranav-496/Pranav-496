@@ -36,9 +36,7 @@
 
 # About
 
-I am **Pranav Landge**, a Computer Engineering undergraduate passionate about designing scalable software systems, intelligent AI applications, and modern full-stack products.
-
-My interests span machine learning, backend architecture, distributed systems, cloud-native development, and developer tooling. I enjoy solving engineering problems that combine research with real-world impact.
+I'm Pranav Landge, a Computer Engineer passionate about software development and building meaningful solutions. I focus on creating clean, efficient code and transforming ideas into reliable, real-world applications.
 
 ### Open To
 
