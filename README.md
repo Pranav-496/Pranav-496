@@ -36,7 +36,7 @@
 
 # About
 
-I'm Pranav Landge, a Computer Engineer passionate about software development and building meaningful solutions. I focus on creating clean, efficient code and transforming ideas into reliable, real-world applications.
+I'm **Pranav Landge**, a Computer Engineer passionate about software development and building meaningful solutions. I focus on creating clean, efficient code and transforming ideas into reliable, real-world applications.
 
 ### Open To
 
