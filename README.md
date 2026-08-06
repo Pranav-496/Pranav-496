@@ -116,22 +116,7 @@ A modern AI platform focused on intelligent workflows, premium UI/UX, and scalab
 
 </details>
 
-<details>
-
-<summary><b>FinvestAI</b></summary>
-
-AI-powered investment guidance platform focused on improving financial literacy.
-
-| Category | Details |
-|----------|----------|
-| Stack | React, Node.js, MongoDB |
-| Scale | Modular architecture |
-| Performance | Fast API-driven dashboard |
-| Security | Secure authentication |
-| Impact | Financial education & recommendations |
-| Repository | https://github.com/YOUR_USERNAME/finvestai |
-
-</details>
+>
 
 <details>
 
@@ -194,7 +179,6 @@ Engaged in community activities, technical learning, and peer collaboration.
 | GSSoC 2026 | Open Source Contributor |
 | GSAP 2026 | Community Contributor |
 | ML Internship | FlyRank |
-| Marketing Internship | WeMakeScholars |
 
 
 
